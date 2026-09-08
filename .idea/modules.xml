@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2D Array/2D Array.iml" filepath="$PROJECT_DIR$/2D Array/2D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountSort/CountSort.iml" filepath="$PROJECT_DIR$/CountSort/CountSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExplainingThread/ExplainingThread.iml" filepath="$PROJECT_DIR$/ExplainingThread/ExplainingThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamApi/StreamApi.iml" filepath="$PROJECT_DIR$/StreamApi/StreamApi.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaCore.iml" filepath="$PROJECT_DIR$/javaCore.iml" />
     </modules>
